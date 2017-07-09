@@ -3,3 +3,5 @@
 This is an exercise intended to setting up a git repository, making changes to it, making different branches, and publishing the repository to Github.com.
 
 This is my first addition to the file.
+
+Here is another addition!
